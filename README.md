@@ -1,4 +1,4 @@
- # Regalcard
+ Regalcard
  ============
 
 Management Card
