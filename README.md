@@ -1,13 +1,16 @@
-# regalcard
+ # Regalcard
+ ============
+
 Management Card
+---------------
 
 Is a open source to make a gift card with qr code. 
 
 
 Requirements.
 
-- Web server apache 2
-- Mysql server 5.x
++ Web server apache 2
++ Mysql server 5.x
 
 To install
 
